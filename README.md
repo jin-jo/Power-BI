@@ -1,4 +1,4 @@
-# Power-BI
+# Power-BI Project
 power BI for data visualization and analysis
 
 ## World Happiness Report 2010-2020
